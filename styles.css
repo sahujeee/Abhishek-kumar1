@@ -1,0 +1,103 @@
+body {
+	margin: 0;
+	
+}
+h1 {
+	margin-top: 0;
+	text-align: center;
+	font-family: 'Sacramento', cursive;
+	font-size: 80px;
+	color: #66BFBF;
+} 
+
+.top-container {
+	background-color:#E4F9F5;
+
+}
+.middle-container {
+
+}
+.bottom-container {
+	position: relative;
+	left: 80px;
+}
+h2 {
+	text-align: center;
+	font-size: 40px;
+	font-family: 'Lobster', cursive;
+	color: #66BFBF;
+}
+h3{
+	text-align: center;
+	font-size: 40px;
+	font-family: 'Lobster', cursive;
+	color: #66BFBF;
+
+}
+p{
+	font-size: 30px;
+	font-family: 'Cookie', cursive;
+	position: relative;
+	left: 80px;
+
+}
+.skill-image{
+	width: 20%;
+float: right;
+margin-top: 200px;
+}
+.math-img{
+	margin-top: 20px;
+	width: 20%;
+	float: left;
+	
+
+}
+.Hello{
+	float: left;
+	margin-left: 30px;
+}
+.img{
+	float: left;
+}
+.intro{
+	float: left;
+	margin-left: 30px;
+	margin-top: 20px;
+}
+.sahu{
+	text-align: center;
+	
+	margin-top: 200px;
+}
+.kn{
+	float: right;
+	margin-left: 80px;
+
+}
+.cs{
+	float: right;
+	margin-top: 80px;
+	margin-left:  350px;
+}
+.ma{
+	float: left;
+}
+.bottom-container{
+	float: right;
+	margin-top: 50px;
+	margin-right: 350px;
+}
+.g{
+ float: left;
+ margin-top: 0px;
+}
+.m{
+	float: left;
+margin-top: 50px;
+
+}
+.r{
+	float: left;
+
+}
